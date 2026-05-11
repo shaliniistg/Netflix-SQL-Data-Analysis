@@ -29,7 +29,6 @@ This project demonstrates SQL skills including:
 - GitHub
 
 - ## Dataset
-Dataset Link: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
 
 The dataset contains Netflix titles information such as:
 
