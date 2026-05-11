@@ -124,6 +124,12 @@ create table netflix(
 
 ## Project Screenshots
 
-![Top 5 Countries](s)
+### Average Content Released by India
 
-![Movies vs TV Shows](screenshots/query1.png)
+![Average Content by India](screenshots/avg_no_of_content_by_India1.jpg)
+
+![Average Content by India](screenshots/avg_no_of_content_by_India2.jpg)
+
+### Top 5 Countries
+
+![Top 5 Countries](screenshots/top5_countries.jpg)
