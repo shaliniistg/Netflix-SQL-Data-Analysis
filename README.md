@@ -121,3 +121,9 @@ create table netflix(
 - ## Author
 
 **Shalini Majumder**
+
+## Project Screenshots
+
+![Top 5 Countries](s)
+
+![Movies vs TV Shows](screenshots/query1.png)
